@@ -1,4 +1,4 @@
-# Design Patterns in JaVA
+# Design Patterns in Java
 
 This repo serves as notes for writing design patterns in Java. These notes are very similar to my notes at [this repo](https://github.com/Eli-Segovia/Design_Patterns_JS), which is JavaScript.
 
